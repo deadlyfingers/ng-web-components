@@ -1,4 +1,4 @@
-# NgWebComponents
+# [Angular Web Components](https://deadlyfingers.github.io/ng-web-components/) [![Build Status](https://travis-ci.org/deadlyfingers/ng-web-components.svg?branch=master)](https://travis-ci.org/deadlyfingers/ng-web-components)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
